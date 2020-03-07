@@ -66,3 +66,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Useful links
+
+https://github.com/typescript-cheatsheets/react-typescript-cheatsheet
+https://www.sitepoint.com/react-with-typescript-best-practices/
+https://fettblog.eu/typescript-react/hooks/#useeffect
+https://reactjs.org/docs/hooks-reference.html#useref
+https://reactjs.org/docs/static-type-checking.html
+https://dev.to/danielhauser/convert-a-react-app-from-flow-to-typescript-without-losing-git-history-32i1
